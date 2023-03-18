@@ -1,0 +1,6 @@
+1. Crear una carpeta
+2. Click derecho dentro de la carpeta y seleccionar la opción "Git Bash Here"
+3. En la consola de GitBash escribir el comando "git init"
+Listo! Ya tendremos nuestro repositorio creado.
+
+C:\Users\alext\OneDrive\Documentos\NetBeansProjects\ActividadesArgProg\Ejercicio2
